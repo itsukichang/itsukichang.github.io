@@ -3,6 +3,11 @@
     <title>itsukichang</title>
     <script type="text/javascript">
      console.log('hello');
+      
+      history.pushState(null, null);
+      window.addEventListener('popstate', function(e) {
+        alert('buck')
+      });
     </script>
   </head>
   <body>
