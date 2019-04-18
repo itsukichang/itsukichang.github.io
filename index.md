@@ -43,4 +43,5 @@ He also published 7 domsestic conference proceedings.
 - 2013-15 teamLab, Part-time engineer
 
 ## Link
-old profile page http://www.iplab.cs.tsukuba.ac.jp/~tada/
+[old profile page](http://www.iplab.cs.tsukuba.ac.jp/~tada/)
+[company blog](https://tech.recruit-mp.co.jp/author/itsukichang/)
